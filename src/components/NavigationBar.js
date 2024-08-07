@@ -21,7 +21,7 @@ function NavigationBar() {
           <Navbar.Brand href="#home">Sample Market</Navbar.Brand>
           <Nav className="ml-auto">
             <Nav.Link>
-              <Link to="/">
+              <Link to="/react-preview-final">
                 Home
               </Link>
             </Nav.Link>

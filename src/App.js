@@ -18,7 +18,7 @@ function App() {
         <Banner></Banner>
         <div className="bg-dark text-light py-5">
           <Routes>
-            <Route path="/" element={<Home></Home>}></Route>
+            <Route path="/react-preview-final" element={<Home></Home>}></Route>
             <Route path="/product" element={<CreateProduct></CreateProduct>}></Route>
           </Routes>
         </div>
